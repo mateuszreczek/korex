@@ -1,0 +1,9 @@
+@media (orientation: landscape) and (min-width: 568px){
+    .off{
+        top: 80px;
+        left: -768px;
+    }
+    a{
+        font-size: 18px;
+    }
+}
